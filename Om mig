@@ -1,0 +1,34 @@
+<!DOCTYPE html>  
+<html lang="sv">
+   <head>
+      <meta charset="utf-8">
+      <link href="rallander.css" rel="stylesheet">
+      <title>Om mig</title>
+   </head>
+   <body> 
+      <header>
+         <h1 class="sida1">Om mig</h1>
+      </header>
+      <nav>
+         <ul id="options">
+            <li>
+               <a href="Uppgift-Egen-sida-Rasmus.html">
+               Hem
+               </a>
+            </li>
+            <li>
+               <a href="ralletabeller.html">
+               Tabeller
+               </a>
+            <li>
+               <a href="Bilder-.html">
+               Bilder
+               </a>
+            </li>
+         </ul>
+      </nav>
+      <main>
+      <p class="Startsida2">
+         Tjena, mitt namn är Rasmus Thorvaldsson och jag bor i Växjö och i en liten by som heter Bästerna som ligger utanför Moheda. På fritiden mekar jag mycket och umgås med kompisar. Jag gobbar även mycket på en mack i Moheda.
+</main>
+   </body>
