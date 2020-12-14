@@ -1,0 +1,63 @@
+<!DOCTYPE html>  
+<html lang="sv">
+   <head>
+      <meta charset="utf-8">
+      <link href="rallander.css" rel="stylesheet">
+      <title>Tabeller</title>
+   </head>
+   <body id="background2">
+      <header>
+         <h1 class="sida2">Uppgift-Egen-sida-Rasmus.html</h1>
+      </header>
+      <nav>
+         <ul id="options">
+            <li>
+               <a href="Uppgift-Egen-sida-Rasmus.html">
+               Hem
+               </a>
+            </li>
+            <li>
+               <a href="Uppgift-Egen-sida-Rasmus.html">
+               Självbiografi
+               </a>
+            <li>
+               <a href="rallebilder.html">
+               Bilder
+               </a>
+            </li>
+         </ul>
+      </nav>
+      <table>
+ <tbody>
+      <tr>
+         <th>Namn</th>
+         <th>Ålder</th>
+         <th>Stad</th>
+         <th>Program</th>
+         </tr>
+         <tr>
+            <td>Rasmus Thorvaldsson</td>
+            <td>18</td>
+            <td>Bästerna</td>
+            <td>Fodornsprogrammet</td>
+         </tr>
+         <tr>
+            <td>Rasmus Thorvaldsson</td>
+            <td>18</td>
+            <td>Bästerna</td>
+            <td>Fodornsprogrammet</td>
+         </tr>
+         <tr>
+            <td>Rasmus Thorvaldsson</td>
+            <td>18</td>
+            <td>Bästerna</td>
+            <td>Fodornsprogrammet</td>
+         </tr>
+      </tbody>
+ </table>
+      <ul class="lista">
+         <li>Jobbar</li>
+         <li>Meckar</li>
+         <li>Träffa kompisar</li>
+      </ul>
+   </body>
