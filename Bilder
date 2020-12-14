@@ -1,0 +1,33 @@
+<!DOCTYPE html>  
+<html lang="sv">
+   <head>
+      <meta charset="utf-8">
+      <link href="rallander.css" rel="stylesheet">
+      <title>Egna hemsidan</title>
+   </head>
+   <body>
+      <header>
+         <h1 class="sida3">bilder</h1>
+      </header>
+      <nav>
+         <ul>
+            <li>
+               <a class="Uppgift-Egen-sida-Rasmus.html" href="Uppgift-Egen-sida-Rasmus.html">
+               Om mig
+               </a>
+            </li>
+            <li>
+               <a class="tabeller" href="Uppgift-Egen-sida-Rasmus.html">
+               Tabeller
+               </a>
+            <li>
+               <a class="bilder" href="rallebilder.html">
+               Bilder
+               </a>
+            </li>
+         </ul>
+      </nav>
+      <img src="https://vaxjo.se/images/18.3533fa35166534fbf7c9f319/1539680971831/Kungsmadskolan%20nya%20053.jpg" alt="Kungsmadskolan" width="600" height="510">
+	  <img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fvaxjo.se%2Fimages%2F18.3533fa35166534fbf7c9f319%2F1539680971831%2FKungsmadskolan%2520nya%2520053.jpg&imgrefurl=https%3A%2F%2Fvaxjo.se%2Fsidor%2Fforskola-och-skola%2Fgymnasieskola%2Fkungsmadskolan%2Fom-kungsmad.html&tbnid=acV67sh5Q0uZGM&vet=12ahUKEwiG06-yuuPsAhVLxSoKHeovARMQMygAegUIARCPAQ..i&docid=M_ScQeQTnZvXPM&w=960&h=540&q=kungsmadskolan&safe=strict&ved=2ahUKEwiG06-yuuPsAhVLxSoKHeovARMQMygAegUIARCPAQ
+	  <a href="
+	  </body>
